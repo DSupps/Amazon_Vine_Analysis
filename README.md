@@ -23,6 +23,14 @@
   - Google Colab
 
 ## Challenge Results:
+
+Overview of the analysis: Explain the purpose of this analysis.
+
+Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+  - How many Vine reviews and non-Vine reviews were there?
+  - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+  - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 ![1](https://user-images.githubusercontent.com/36451701/128567224-5d1f8262-d411-4b34-b5bc-982bcc0a68b5.png)
 
 ![2](https://user-images.githubusercontent.com/36451701/128567245-db73b1ed-3fe2-4ac3-a410-f99057685ec7.png)
@@ -37,3 +45,7 @@
 
 
 ## Challenge Summary:
+
+Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+
