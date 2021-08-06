@@ -37,7 +37,7 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 ![4](https://user-images.githubusercontent.com/36451701/128567258-0479b97e-b390-49e0-93c4-ac1d9a1aa90c.png)
 
-### Total 5-Star Reviews:
+<p style="text-decoration: underline;">### Total 5-Star Reviews:</p>
 
 ![2](https://user-images.githubusercontent.com/36451701/128567245-db73b1ed-3fe2-4ac3-a410-f99057685ec7.png)
 
