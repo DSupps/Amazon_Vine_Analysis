@@ -33,13 +33,13 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 ![1](https://user-images.githubusercontent.com/36451701/128567224-5d1f8262-d411-4b34-b5bc-982bcc0a68b5.png)
 
-![2](https://user-images.githubusercontent.com/36451701/128567245-db73b1ed-3fe2-4ac3-a410-f99057685ec7.png)
-
 ![3](https://user-images.githubusercontent.com/36451701/128567253-b2d5d841-c6ea-4679-8d6f-42065d7660da.png)
 
 ![4](https://user-images.githubusercontent.com/36451701/128567258-0479b97e-b390-49e0-93c4-ac1d9a1aa90c.png)
 
 ![5](https://user-images.githubusercontent.com/36451701/128567268-2eaaae4d-7213-476f-96f8-a8b8ef6af94d.png)
+
+![2](https://user-images.githubusercontent.com/36451701/128567245-db73b1ed-3fe2-4ac3-a410-f99057685ec7.png)
 
 ![6](https://user-images.githubusercontent.com/36451701/128567278-12bbcefc-a1f1-49dd-98a1-5fdb4bad1c1a.png)
 
