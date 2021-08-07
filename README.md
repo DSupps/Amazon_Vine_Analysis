@@ -5,7 +5,7 @@
 
 *The steps involved to perform the analysis will consist of using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.*
 
-*Once the data has been transformed and loaded, the next step is to use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset.*
+*Once the data has been transformed and loaded, the next step is to use PySpark to determine if there is any bias toward favorable reviews from Vine members in your dataset.*
 
 ### Deliverables:
 - Deliverable 1: Perform ETL on Amazon Product Reviews
