@@ -41,19 +41,26 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 ![4](https://user-images.githubusercontent.com/36451701/128567258-0479b97e-b390-49e0-93c4-ac1d9a1aa90c.png)
 
 ### Total 5-Star Reviews:
+  - There were a total of 48 Vine 5-star reviews.
 
 ![2](https://user-images.githubusercontent.com/36451701/128567245-db73b1ed-3fe2-4ac3-a410-f99057685ec7.png)
+
+- There were a total of 15,663 non-Vine 5-star reviews.
 
 ![5](https://user-images.githubusercontent.com/36451701/128567268-2eaaae4d-7213-476f-96f8-a8b8ef6af94d.png)
 
 ### Percentage of 5-Star Reviews:
+  - 51% of the Vine reviews were 5-star. 
 
 ![3](https://user-images.githubusercontent.com/36451701/128567253-b2d5d841-c6ea-4679-8d6f-42065d7660da.png)
+
+   - 38% of the non-Vine reviews were 5-star.
 
 ![6](https://user-images.githubusercontent.com/36451701/128567278-12bbcefc-a1f1-49dd-98a1-5fdb4bad1c1a.png)
 
 
 ## Challenge Summary:
+Looking at the percentage of 5-star reviews, here appears to be a positivity bias for the reviews in the Vine program (51%) vs non-Vine reviews (38)
 
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
