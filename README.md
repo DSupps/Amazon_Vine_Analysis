@@ -60,8 +60,8 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 
 ## Challenge Summary:
-Looking at the percentage of 5-star reviews, here appears to be a positivity bias for the reviews in the Vine program (51%) vs non-Vine reviews (38)
+Looking at the percentage of 5-star reviews, there appears to be a positivity bias for the reviews in the Vine program (51%) vs non-Vine reviews (38).
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+Since we are comparing 94 data points to 40,471, another possible analysis could be looking at summary statistics of the Vine members vs non-Vine participants.  
 
 
