@@ -1,11 +1,11 @@
 # Amazon_Vine_Analysis
 
 ## Challenge Overview:
-*Use  and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.*
+*SellBy would like to analzye Amazon reviews written by memebers of the Amazon Vine program.*
 
-*Next, you’ll use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset.*
+*The steps involved to perform the analysis will consist of using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.*
 
-*Then, you’ll write a summary of the analysis for Jennifer to submit to the SellBy stakeholders.*
+*Once the data has been transformed and loaded, the next step is to use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in your dataset.*
 
 ### Deliverables:
 - Deliverable 1: Perform ETL on Amazon Product Reviews
@@ -32,8 +32,11 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
   - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ### Total Reviews:
+  - There were a total of 94 Vine reviews.
 
 ![1](https://user-images.githubusercontent.com/36451701/128567224-5d1f8262-d411-4b34-b5bc-982bcc0a68b5.png)
+
+  - There were a total of 40,471 non-Vine reviews. 
 
 ![4](https://user-images.githubusercontent.com/36451701/128567258-0479b97e-b390-49e0-93c4-ac1d9a1aa90c.png)
 
