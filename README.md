@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 
-## Challenge Overview:
+## Project Overview:
 *SellBy would like to analzye Amazon reviews written by memebers of the Amazon Vine program.*
 
 *The steps involved to perform the analysis will consist of using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.*
@@ -22,7 +22,7 @@
   - AWS
   - Google Colab
 
-## Challenge Results:
+## Project Results:
 
 Overview of the analysis: Explain the purpose of this analysis.
 
@@ -59,7 +59,7 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 ![6](https://user-images.githubusercontent.com/36451701/128567278-12bbcefc-a1f1-49dd-98a1-5fdb4bad1c1a.png)
 
 
-## Challenge Summary:
+## Project Summary:
 Looking at the percentage of 5-star reviews, there appears to be a positivity bias for the reviews in the Vine program (51%) vs non-Vine reviews (38).
 
 Since we are comparing 94 data points to 40,471, another possible analysis could be looking at summary statistics of the Vine members vs non-Vine participants.  
