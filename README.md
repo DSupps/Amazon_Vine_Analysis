@@ -1,6 +1,12 @@
 # Amazon_Vine_Analysis
+![aws](https://user-images.githubusercontent.com/36451701/143142055-c06b6b9d-5024-433b-a92e-8f1120170ab1.png)
 
 ## Project Overview:
+This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
+
+The analysis uses PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, load the transformed data into pgAdmin and calculate different metrics.
+
+### Project Challenge:
 *SellBy would like to analzye Amazon reviews written by memebers of the Amazon Vine program.*
 
 *The steps involved to perform the analysis will consist of using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin.*
