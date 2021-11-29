@@ -68,6 +68,6 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 ## Project Summary:
 Looking at the percentage of 5-star reviews, there appears to be a positivity bias for the reviews in the Vine program (51%) vs non-Vine reviews (38).
 
-Since we are comparing 94 data points to 40,471, another possible analysis could be looking at summary statistics of the Vine members vs non-Vine participants. -
+Since we are comparing 94 data points to 40,471, another possible analysis could be looking at summary statistics of the Vine members vs non-Vine participants. 
 
 
